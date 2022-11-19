@@ -1,5 +1,6 @@
-# magnimind_work
-The folder contains the homework and projects completed for the Magnimind bootcamp.
+# magnimind_bootcamp
+- These ipython notebooks were collected from other repo to better keep track of my work.
+- The folder contains the homework and projects completed for the Magnimind bootcamp.
 
 Assignment
 ---
@@ -16,8 +17,8 @@ Assignment
 11. Strings
 
 
-Extras:
-
+assets/
+---
 - AdSmartABdata - AdSmartABdata.csv - Data for AB Testing Project
 - browser_wordcloud.png - AB Testing output
 - device_wordcloud.png - AB Testing output
